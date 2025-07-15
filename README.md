@@ -21,4 +21,4 @@
 - `InvoiceDate`: 發票日期和時間。交易發生的日期和時間。
 - `UnitPrice`: 單價。價格單位為英鎊（£）。
 - `CustomerID`: 客戶編號。 5位數，作為客戶的唯一識別碼。
-- `Country`: 國家名稱。客戶所居住的國家的名稱。# Data-Cleaned
+- `Country`: 國家名稱。客戶所居住的國家的名稱。
